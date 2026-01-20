@@ -1,10 +1,13 @@
-.text {
-    background-color: black;
+.text{
+    background-color: pink;
 }
 
+#N1{
+    background-color: blueviolet;
+}
 
-
-
-.p-tag {
-    background-color:black ;
+span{
+    color: green;
+    background-color: aqua;
+    font-size: 21px;
 }
